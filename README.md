@@ -60,7 +60,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 ## Contact
 
 **Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
-**LinkedIn:** (www.linkedin.com/in/ahmad-daniel-63721b322)
+**LinkedIn:** www.linkedin.com/in/ahmad-daniel-63721b322
 
 ---
 
