@@ -41,7 +41,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 
 ## Live Dashboard
 
-🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public] https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**  
+🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) **  
 
 ---
 
