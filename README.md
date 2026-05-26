@@ -31,7 +31,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 | Course | Title | Status | Blog Post | Key Deliverables |
 |--------|-------|--------|-----------|-----------------|
 | Course 1 | Foundations of Business Intelligence | ✅ Complete | [Read →](https://danieljasme.hashnode.dev/how-i-approached-the-google-fiber-bi-case-study-google-bi-certificate-course-1) | Stakeholder Requirements, Project Requirements, Strategy Documents |
-| Course 2 | The Path to Insights: Data Models and Pipelines | 🔄 In progress | Coming soon | Schema design, ETL pipeline |
+| Course 2 | The Path to Insights: Data Models and Pipelines | ✅ Complete | Coming soon | Schema design, ETL pipeline |
 | Course 3 | Decisions, Decisions: Dashboards and Reports | ⏳ Upcoming | Coming soon | Final BI dashboard |
 
 ---
