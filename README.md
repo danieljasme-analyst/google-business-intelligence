@@ -1,7 +1,7 @@
 # Google Business Intelligence Certificate — Portfolio
 
 **Candidate:** Ahmad Daniel  
-**Program:** [Goo# Google Business Intelligence Certificate — Portfolio
+**Program:** Google Business Intelligence Certificate — Portfolio
 
 **Candidate:** Ahmad Daniel  
 **Program:** [Google Business Intelligence Certificate](https://grow.google/certificates/business-intelligence/) on Coursera  
@@ -41,8 +41,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 
 ## Live Dashboard
 
-🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public](https://public.tableau.**  
-*(Update this link after publishing)*
+🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public] https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**  
 
 ---
 
@@ -61,14 +60,14 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 ## Contact
 
 **Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
-**LinkedIn:** [Add your LinkedIn URL]
+**LinkedIn:** (www.linkedin.com/in/ahmad-daniel-63721b322)
 
 ---
 
 *These projects are completed as part of the Google Business Intelligence Certificate program. The Google Fiber scenario is a fictional case study provided by the program for educational purposes.*
 gle Business Intelligence Certificate](https://grow.google/certificates/business-intelligence/) on Coursera  
 **Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
-**Status:** In progress
+**Status:** ✅ Complete
 
 ---
 
