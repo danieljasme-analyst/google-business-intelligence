@@ -93,7 +93,7 @@ For junior BI folks (myself included), there's a strong pull toward building thi
 
 All three documents from Course 1 are available in my GitHub portfolio:
 
-🔗 [github.com/YOUR_USERNAME/google-bi-portfolio](https://github.com/danieljasme-analyst/google-bi-portfolio)
+🔗 [github.com/danieljasme-analyst/google-bi-portfolio](https://github.com/danieljasme-analyst/google-bi-portfolio)
 
 ---
 
